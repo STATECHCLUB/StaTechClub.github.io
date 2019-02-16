@@ -2,6 +2,7 @@
 
 body {
     margin: 0px;
+    background-color: #676767;
 }
 
 h1 {
@@ -63,7 +64,7 @@ ul li{
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding: 75px 0px 0px 0px;
+	padding: 105px 0px 0px 0px;
 	text-align: center;
 }
 	
@@ -163,7 +164,7 @@ nav a:hover {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	font-size: 17px;
+	font-size: 23px;
 	font-family: Share Tech;
 }
 
