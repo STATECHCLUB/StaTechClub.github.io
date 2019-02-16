@@ -64,7 +64,7 @@ ul li{
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding: 105px 0px 0px 0px;
+	padding: 75px 0px 0px 0px;
 	text-align: center;
 }
 	
@@ -210,6 +210,6 @@ nav a:hover {
 			display: none;
 		}
 		.Pg23Header h1 {
-			padding: 55px 0px 0px 0px;
+			padding: 60px 0px 0px 0px;
 		}
 	}
